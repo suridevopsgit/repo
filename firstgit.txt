@@ -1,1 +1,2 @@
 hi this is first git file
+adding comments from cmd to firstgit.txt file
